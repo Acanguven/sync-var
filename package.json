@@ -8,9 +8,9 @@
     "sinon": "^6.3.1"
   },
   "scripts": {
-    "test": "",
-    "build": "",
-    "cov": "",
-    "lint": ""
+    "test": "echo test",
+    "build": "echo build",
+    "cov": "echo cov",
+    "lint": "echo lint"
   }
 }
