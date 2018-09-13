@@ -7,8 +7,7 @@
   "exclude": [
     "dist/**",
     "**/*.d.ts",
-    "test/**",
-    "lib/index.ts"
+    "test/**"
   ],
   "include": [
     "lib/**/*.ts"
