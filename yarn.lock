@@ -270,7 +270,7 @@ cliui@^4.0.0:
   dependencies:
     string-width "^2.1.1"
     strip-ansi "^4.0.0"
-    constructor-ansi "^2.0.0"
+    wrap-ansi "^2.0.0"
 
 co@^4.6.0:
   version "4.6.0"
@@ -1000,7 +1000,7 @@ nyc@^13.0.1:
     resolve-from "^4.0.0"
     rimraf "^2.6.2"
     signal-exit "^3.0.2"
-    spawn-constructor "^1.4.2"
+    spawn-wrap "^1.4.2"
     test-exclude "^5.0.0"
     uuid "^3.3.2"
     yargs "11.1.0"
@@ -1244,8 +1244,8 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
 
 sinon@^6.3.1:
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/sinon/-/sinon-6.3.1.tgz#4b57a52d74d6cc2fb8db17cb3b23356becfa7c1b"
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/sinon/-/sinon-6.3.2.tgz#9d5f39689638285683e6625d0f68c4b670d13b36"
   dependencies:
     "@sinonjs/commons" "^1.0.2"
     "@sinonjs/formatio" "^2.0.0"
@@ -1274,7 +1274,7 @@ source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.1:
 
 spawn-wrap@^1.4.2:
   version "1.4.2"
-  resolved "https://registry.yarnpkg.com/spawn-constructor/-/spawn-constructor-1.4.2.tgz#cff58e73a8224617b6561abdc32586ea0c82248c"
+  resolved "https://registry.yarnpkg.com/spawn-wrap/-/spawn-wrap-1.4.2.tgz#cff58e73a8224617b6561abdc32586ea0c82248c"
   dependencies:
     foreground-child "^1.5.6"
     mkdirp "^0.5.0"
@@ -1472,7 +1472,7 @@ wordwrap@~0.0.2:
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
-  resolved "http://registry.npmjs.org/constructor-ansi/-/constructor-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"
+  resolved "http://registry.npmjs.org/wrap-ansi/-/wrap-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"
   dependencies:
     string-width "^1.0.1"
     strip-ansi "^3.0.1"
