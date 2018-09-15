@@ -1,5 +1,3 @@
-require('ts-node/register');
-
 export type ProxyObject = {
   [key: string]: string | object | number | Function | ProxyObject;
   [key: number]: string | object | number | Function | ProxyObject;
